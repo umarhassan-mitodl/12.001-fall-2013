@@ -1,0 +1,49 @@
+leftnav:
+- identifier: ce088e37-78d0-b7c9-c849-d4b38b029687
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e9e621fa-f386-1c1e-4282-d3854377dc3c
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: e843f795-081a-c616-d0ce-bdff6e956e33
+  name: Co-Teaching
+  pageRef: /pages/instructor-insights/co-teaching
+  parent: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
+  weight: 40
+- identifier: ef6931d2-c8e6-bc0b-8e9a-5572a78fe125
+  name: Planning a Good Field Trip
+  pageRef: /pages/instructor-insights/planning-a-good-field-trip
+  parent: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
+  weight: 50
+- identifier: a9c623ed-5ba5-9002-d8a7-cabe1d13ee9e
+  name: Conveying the Social Relevance of Geology
+  pageRef: /pages/instructor-insights/conveying-the-social-relevance-of-geology
+  parent: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
+  weight: 60
+- identifier: abd48cef-e43d-11ae-8b57-3e0d4a6872b9
+  name: Making Sense of Messiness
+  pageRef: /pages/instructor-insights/making-sense-of-messiness
+  parent: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
+  weight: 70
+- identifier: 4a73573a-3887-80b6-27dd-f6ad95ed8c72
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: 7a74d241-d2fe-5d87-7f74-7158998d8ed3
+  name: Lecture Notes and Slides
+  pageRef: /pages/lecture-notes-and-slides
+  weight: 90
+- identifier: 70b14987-2928-3aad-0ccf-e229bcdce4cb
+  name: Labs and Exercises
+  pageRef: /pages/labs-and-exercises
+  weight: 100
+- identifier: de36fe69-cf33-ddf2-38bc-3896d0ce9eff
+  name: Field Trip
+  pageRef: /pages/field-trip
+  weight: 110
