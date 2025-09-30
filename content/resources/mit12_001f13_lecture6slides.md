@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding sedimen
 file: /courses/12-001-introduction-to-geology-fall-2013/feefeb51ec6d693e201a36c00b7729a3_MIT12_001F13_Lecture6slides.pdf
 file_size: 3803002
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

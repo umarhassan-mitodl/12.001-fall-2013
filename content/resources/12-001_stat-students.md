@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-001-introduction-to-geology-fall-2013/5f25559e94913a6a8708d0bff5661b1c_12-001_stat-students.png
 file_size: 2880
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

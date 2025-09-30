@@ -4,6 +4,8 @@ description: 'This file contains the information regarding lecture 21 Slides: To
 file: /courses/12-001-introduction-to-geology-fall-2013/3fe343fa2d8db5fef59ce836fae16ae1_MIT12_001F13_Lec21slides.pdf
 file_size: 3973764
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

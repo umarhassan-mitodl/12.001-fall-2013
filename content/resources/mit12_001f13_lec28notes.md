@@ -4,6 +4,8 @@ description: This is a file that contains information regarding rivers.
 file: /courses/12-001-introduction-to-geology-fall-2013/526a37955368dfee90091327394fa6fe_MIT12_001F13_Lec28Notes.pdf
 file_size: 521454
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

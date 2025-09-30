@@ -5,6 +5,8 @@ description: 'This is a resource file that contains information regarding overvi
 file: /courses/12-001-introduction-to-geology-fall-2013/d8c5746d11664a62a1ede4fecfca6e37_MIT12_001F13_Lecture1slides.pdf
 file_size: 1658853
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

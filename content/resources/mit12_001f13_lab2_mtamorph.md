@@ -5,6 +5,8 @@ description: This file contains information regarding blank chart for metamorphi
 file: /courses/12-001-introduction-to-geology-fall-2013/2c4f3e1ab6f372c79a3816e81f787507_MIT12_001F13_Lab2_Mtamorph.pdf
 file_size: 69848
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

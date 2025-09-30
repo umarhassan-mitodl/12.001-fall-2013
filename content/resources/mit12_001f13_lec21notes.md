@@ -4,6 +4,8 @@ description: This is a file that contains information regarding topography.
 file: /courses/12-001-introduction-to-geology-fall-2013/66687cb68ded354da25bd27ca3d81a26_MIT12_001F13_Lec21Notes.pdf
 file_size: 237257
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
