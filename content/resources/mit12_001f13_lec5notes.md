@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding metamor
 file: /courses/12-001-introduction-to-geology-fall-2013/93e58d46191f9fc3c54ec80752ad3b80_MIT12_001F13_Lec5Notes.pdf
 file_size: 543311
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

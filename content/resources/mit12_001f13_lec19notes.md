@@ -4,8 +4,6 @@ description: This is a file that contains information regarding earthquakes.
 file: /courses/12-001-introduction-to-geology-fall-2013/8271452e03553099040a97e005b199ac_MIT12_001F13_Lec19Notes.pdf
 file_size: 703277
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

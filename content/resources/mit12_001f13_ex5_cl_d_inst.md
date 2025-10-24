@@ -5,8 +5,6 @@ description: 'This file contains information regarding exercise 5: science, poli
 file: /courses/12-001-introduction-to-geology-fall-2013/0eff46847a090a37a7b8b458ac58598b_MIT12_001F13_Ex5_Cl_D_Inst.pdf
 file_size: 401689
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

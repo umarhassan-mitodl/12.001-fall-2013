@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the exercises and laboratory assignments for the
   course along with supporting files.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection

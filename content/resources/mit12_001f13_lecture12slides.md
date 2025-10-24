@@ -4,8 +4,6 @@ description: This is a resource file that contains information regarding volcano
 file: /courses/12-001-introduction-to-geology-fall-2013/5642a0c11593cfae7b86e1b019f95dd9_MIT12_001F13_Lecture12slides.pdf
 file_size: 953081
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

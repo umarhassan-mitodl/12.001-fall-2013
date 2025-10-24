@@ -5,8 +5,6 @@ description: This is a file that contains information regarding origin and age o
 file: /courses/12-001-introduction-to-geology-fall-2013/f9eded771045c0c682af8e7b0cea495d_MIT12_001F13_Lec2Notes.pdf
 file_size: 169350
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

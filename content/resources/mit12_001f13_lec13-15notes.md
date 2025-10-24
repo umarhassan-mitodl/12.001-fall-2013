@@ -4,8 +4,6 @@ description: This is a resource file that contains information regarding plate t
 file: /courses/12-001-introduction-to-geology-fall-2013/7883fdc65f0f4ffe3ef319beedc4bdc8_MIT12_001F13_Lec13-15Notes.pdf
 file_size: 1151674
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

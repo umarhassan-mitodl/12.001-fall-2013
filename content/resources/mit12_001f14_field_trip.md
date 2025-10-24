@@ -5,8 +5,6 @@ description: This resource contains the information regarding a field trip to an
 file: /courses/12-001-introduction-to-geology-fall-2013/f828208d0d04e1f39c1bb31d6fbe5f2d_MIT12_001F14_Field_Trip.pdf
 file_size: 4385532
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

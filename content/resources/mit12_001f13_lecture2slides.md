@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding origin 
 file: /courses/12-001-introduction-to-geology-fall-2013/b463875b69d4156b90faaeb0dd7ca66b_MIT12_001F13_Lecture2slides.pdf
 file_size: 2747826
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

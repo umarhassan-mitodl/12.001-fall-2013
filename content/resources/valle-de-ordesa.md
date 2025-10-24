@@ -5,8 +5,6 @@ description: The Ordesa Valley in the Spanish Pyrenees was carved by a glacier. 
 file: /courses/12-001-introduction-to-geology-fall-2013/4f199a18bc4ad7f0f6e8ffa79ece47e6_Valle-de-Ordesa.jpg
 file_size: 76232
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: The Ordesa Valley in the Spanish Pyrenees was carved by a glacier.
   credit: Photograph courtesy of Taylor Perron.

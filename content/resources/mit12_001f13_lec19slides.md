@@ -4,8 +4,6 @@ description: 'This file contains the information regarding lecture 19 Slides: Ea
 file: /courses/12-001-introduction-to-geology-fall-2013/c1f05935417d91f6887916de7b316f46_MIT12_001F13_Lec19Slides.pdf
 file_size: 1423908
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

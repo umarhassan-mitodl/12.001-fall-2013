@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding geologi
 file: /courses/12-001-introduction-to-geology-fall-2013/95c4779902dd7abe4d0ec6ce00e384d6_MIT12_001F13_Lecture11slides.pdf
 file_size: 395358
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

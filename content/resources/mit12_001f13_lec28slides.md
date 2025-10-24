@@ -4,8 +4,6 @@ description: 'This file contains the information regarding lecture 28 Slides: Ri
 file: /courses/12-001-introduction-to-geology-fall-2013/cf74a58b49c9caf991986d0ab832b3a6_MIT12_001F13_Lec28Slides.pdf
 file_size: 6275094
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
