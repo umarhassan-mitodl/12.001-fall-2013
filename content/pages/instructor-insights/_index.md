@@ -25,7 +25,7 @@ This course introduces students to the basics of geology through lectures, labor
 
 ### Possibilities for Further Study
 
-After this course, students may be interested in an undergraduate major or minor in [Earth, Atmospheric and Planetry Sciences](http://eapsweb.mit.edu).
+After this course, students may be interested in an undergraduate major or minor in {{% resource_link "6e00b52f-2b96-4579-a319-301c4c20a4dc" "Earth, Atmospheric and Planetry Sciences" %}}.
 
 This course is complementary to [12.002 *Physics and Chemistry of the Terrestrial Planets*](/courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008) and [12.003 *Atmosphere, Ocean, and Climate Dynamics*.](/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008)
 
@@ -49,9 +49,9 @@ The course is designed to be accessible to students from all disciplines. No geo
 ### Requirements Satisfied
 
 - REST ![](/images/educator/icon-question-rest.png)
-- Required course for undergraduates [majoring in Earth, Atmospheric, and Planetary Science](https://eaps.mit.edu/education/undergraduate-program/major-programs/)
-- Core subject for students [minoring in Earth, Atmospheric, and Planetary Science](https://eapsweb.mit.edu/)
-- Required course for undergraduates in the [Program in Archaeology and Materials](https://catalog.mit.edu/schools/engineering/materials-science-engineering/#archaeology-materials-minor) in the Department of Materials Science and Engineering
+- Required course for undergraduates {{% resource_link "b2b80b82-e6bc-440f-be9a-84fb1ded74a6" "majoring in Earth, Atmospheric, and Planetary Science" %}}
+- Core subject for students {{% resource_link "7c65f828-e7c3-4e67-8e84-3651ac596351" "minoring in Earth, Atmospheric, and Planetary Science" %}}
+- Required course for undergraduates in the {{% resource_link "08305760-419d-4179-86dc-1b61f8fa0820" "Program in Archaeology and Materials" %}} in the Department of Materials Science and Engineering
 
 ### Offered
 
